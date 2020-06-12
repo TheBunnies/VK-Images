@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="VK_Images.Views.ShellView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:VK_Images.Views"
+             xmlns:viewModels="clr-namespace:VK_Images.ViewModels"
+             xmlns:enums="clr-namespace:VK_Images.Enums"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Border BorderThickness="1" BorderBrush="Black" Grid.Column="0">
+                <Image Source="{Binding Path=UserData.AvatarUrl}"></Image>
+            </Border>
+            <StackPanel Grid.Column="1" DataContext="{Binding UserData}">
+                <TextBlock Text="{Binding Path=Name, StringFormat=Name: {0}}" Style="{StaticResource ThiccText}"></TextBlock>
+                <TextBlock Text="{Binding Path=id, StringFormat=ID: {0}}" Style="{StaticResource ThiccText}"></TextBlock>
+            </StackPanel>
+        </Grid>
+        <StackPanel Orientation="Horizontal" Margin="0,7,0,0">
+            <TextBlock Style="{StaticResource ThiccText}">Access Token:</TextBlock>
+            <TextBox Text="{Binding AccessToken, UpdateSourceTrigger=LostFocus}" MinWidth="350" Margin="17,0,0,0"/>
+            <TextBlock><Hyperlink Command="{Binding OpenLink}">How to get token</Hyperlink></TextBlock>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+            <TextBlock Style="{StaticResource ThiccText}">User/Group ID:</TextBlock>
+            <TextBox Text="{Binding OwnerId, UpdateSourceTrigger=LostFocus}" MinWidth="350" Margin="5,0,0,0"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0,12,0,0">
+            <TextBlock Style="{StaticResource ThiccText}">Images Count:</TextBlock>
+            <TextBox Text="{Binding ImagesCount, UpdateSourceTrigger=PropertyChanged}" MinWidth="50" Margin="5,0,0,0"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+            <TextBlock Style="{StaticResource ThiccText}">Offset:</TextBlock>
+            <TextBox Text="{Binding Offset, UpdateSourceTrigger=PropertyChanged}" MinWidth="50" Margin="5,0,0,0"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+            <RadioButton Command="{Binding OptionCommand}" CommandParameter="{x:Static enums:Options.Album}" IsChecked="True" Foreground="White" Margin="5">Album</RadioButton>
+            <RadioButton Command="{Binding OptionCommand}" CommandParameter="{x:Static enums:Options.Wall}" Foreground="White" Margin="5">Wall</RadioButton>
+        </StackPanel>
+
+
+        <Button Command="{Binding DownloadImages}" HorizontalAlignment="Center" Margin="10" Style="{StaticResource EdgyButton}">Download Images</Button>
+    </StackPanel>
+</UserControl>

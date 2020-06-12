@@ -1,0 +1,9 @@
+C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\bin\Debug\netcoreapp3.1\VK_Images.API.deps.json
+C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\bin\Debug\netcoreapp3.1\VK_Images.API.dll
+C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.csprojAssemblyReference.cache
+C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.AssemblyInfoInputs.cache
+C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.AssemblyInfo.cs
+C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\bin\Debug\netcoreapp3.1\VK_Images.API.pdb
+C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.csproj.CoreCompileInputs.cache
+C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.dll
+C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.pdb
