@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "wM4wByENqY7WQcA3wIw1jIlrKzVIFMiRWvX8bfa3a7AUvtoaGiuO7UTGdnFMI2Bx5E5Rjh1qndoKN8tP5t4laQ==",
+  "dgSpecHash": "lDfsKKTa89ScIF6rSjM7g3lhHB3NieBrB7OR9wq8tO1/aylityTIxaaH7Na+MevbUTIuaLHL04MMJ2T9v0gJYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Алексей 2.0\\source\\repos\\VK_Images\\VK_Images\\VK_Images.csproj",
+  "projectFilePath": "D:\\Projects\\Visual Studio 2019\\VK-Images\\VK_Images\\VK_Images.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Алексей 2.0\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
-    "C:\\Users\\Алексей 2.0\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
-    "C:\\Users\\Алексей 2.0\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
-    "C:\\Users\\Алексей 2.0\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\lucky\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\lucky\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\lucky\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\lucky\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\lucky\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }

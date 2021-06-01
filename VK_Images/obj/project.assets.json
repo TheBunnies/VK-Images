@@ -158,23 +158,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Алексей 2.0\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\lucky\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Алексей 2.0\\source\\repos\\VK_Images\\VK_Images\\VK_Images.csproj",
+      "projectUniqueName": "D:\\Projects\\Visual Studio 2019\\VK-Images\\VK_Images\\VK_Images.csproj",
       "projectName": "VK_Images",
-      "projectPath": "C:\\Users\\Алексей 2.0\\source\\repos\\VK_Images\\VK_Images\\VK_Images.csproj",
-      "packagesPath": "C:\\Users\\Алексей 2.0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Алексей 2.0\\source\\repos\\VK_Images\\VK_Images\\obj\\",
+      "projectPath": "D:\\Projects\\Visual Studio 2019\\VK-Images\\VK_Images\\VK_Images.csproj",
+      "packagesPath": "C:\\Users\\lucky\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Visual Studio 2019\\VK-Images\\VK_Images\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Алексей 2.0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -183,13 +179,15 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.emzi0767.com/api/v3/index.json": {}
+        "https://nuget.emzi0767.com/api/v3/index.json": {},
+        "https://www.myget.org/F/sixlabors/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Алексей 2.0\\source\\repos\\VK_Images\\VK_Images.API\\VK_Images.API.csproj": {
-              "projectPath": "C:\\Users\\Алексей 2.0\\source\\repos\\VK_Images\\VK_Images.API\\VK_Images.API.csproj"
+            "D:\\Projects\\Visual Studio 2019\\VK-Images\\VK_Images.API\\VK_Images.API.csproj": {
+              "projectPath": "D:\\Projects\\Visual Studio 2019\\VK-Images\\VK_Images.API\\VK_Images.API.csproj"
             }
           }
         }
@@ -202,6 +200,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
@@ -222,6 +221,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.13, 3.1.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -230,7 +235,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

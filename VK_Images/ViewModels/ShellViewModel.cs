@@ -256,7 +256,7 @@ namespace VK_Images.ViewModels
                 foreach (var item in data)
                 {
                     if (!client.IsBusy)
-                        await client.DownloadFileTaskAsync(new Uri(item),$"Images/{Path.GetFileName(item)}");
+                        await client.DownloadFileTaskAsync(new Uri(item),$"Images/{Path.GetFileName(item).Split('?')[0]}");
                 }
             }
         }

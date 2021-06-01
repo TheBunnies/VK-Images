@@ -1,20 +1,20 @@
 ﻿VK_Images
-
+1.0.0.0
 
 winexe
 C#
 .cs
-C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images\obj\Debug\netcoreapp3.1\
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\
 VK_Images
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images\App.xaml
-4-318669364
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\App.xaml
+4-985819352
 
-111579570771
-197-874695560
+121260709136
+197158611729
 MainWindow.xaml;Styles\ControlStyles.xaml;Styles\TextStyles.xaml;Views\ShellView.xaml;
 
-True
+False
 

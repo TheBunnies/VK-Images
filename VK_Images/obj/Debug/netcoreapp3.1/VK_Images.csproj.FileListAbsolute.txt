@@ -30,3 +30,35 @@ C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images\bin\Debug\netcoreap
 C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.API.dll
 C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.API.pdb
 C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.csproj.CopyComplete
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.dll
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.pdb
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.exe
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.deps.json
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.runtimeconfig.json
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.runtimeconfig.dev.json
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.dll
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.pdb
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\MoreLinq.dll
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.API.dll
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\bin\Debug\netcoreapp3.1\VK_Images.API.pdb
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.csprojAssemblyReference.cache
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\Views\ShellView.g.cs
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images_MarkupCompile.cache
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images_MarkupCompile.lref
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\App.baml
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\Styles\ControlStyles.baml
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\Styles\TextStyles.baml
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\Views\ShellView.baml
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.g.resources
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.AssemblyInfo.cs
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.csproj.CopyComplete
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images\obj\Debug\netcoreapp3.1\VK_Images.genruntimeconfig.cache

@@ -7,3 +7,12 @@ C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\bin\Debug\netco
 C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.csproj.CoreCompileInputs.cache
 C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.dll
 C:\Users\Алексей 2.0\source\repos\VK_Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.pdb
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.dll
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.pdb
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images.API\bin\Debug\netcoreapp3.1\VK_Images.API.deps.json
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images.API\bin\Debug\netcoreapp3.1\VK_Images.API.dll
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images.API\bin\Debug\netcoreapp3.1\VK_Images.API.pdb
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.csprojAssemblyReference.cache
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.AssemblyInfo.cs
+D:\Projects\Visual Studio 2019\VK-Images\VK_Images.API\obj\Debug\netcoreapp3.1\VK_Images.API.csproj.CoreCompileInputs.cache
